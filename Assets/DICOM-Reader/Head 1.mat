@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Head
-  m_Shader: {fileID: 4800000, guid: 5a7235168c10b414ea0b4796c22888e9, type: 3}
+  m_Name: Head 1
+  m_Shader: {fileID: 4800000, guid: dfab4e7f509734d1eb15ec693d59fc17, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -136,6 +136,7 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _ReceiveShadows: 1
+    - _SliceNum: 0.574
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
